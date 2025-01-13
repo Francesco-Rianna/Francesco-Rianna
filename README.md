@@ -5,3 +5,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-%232CBC8A.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Magento](https://img.shields.io/badge/magento-%23EE672F.svg?style=for-the-badge&logo=magento&logoColor=white)
+
